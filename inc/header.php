@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Authenication</title>
+    <title>Home Page</title>
     <meta name="description" content="This week we will look at how we can protect pages behind a level of authenication.">
     <meta name="robots" content="noindex, nofollow">
     <!-- add our fonts -->
